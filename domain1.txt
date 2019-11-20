@@ -1,0 +1,44 @@
+A prova 2 tem o objetivo de avaliar os conceitos de linguagem natural.
+
+Os conteúdos da prova são: Processamento de Linguagem Natural, Vetorização de Textos e Sistemas de Diálogo.
+
+Tokenização possui o objetivo de separar o texto analisado em tokens (sequência de caracteres com algum significado semântico
+          Normalmente a operação de tokenização ignora caracteres especiais (como ?, !, ;, .).
+
+Forma Canônica possui o objetivo de padronizar o texto, muito utilizado com datas, abreviações, conversão de texto para minúsculo.
+          Exemplos: 30/outubro ----> 30/10
+                    R$ 135,00 ----> cento e trinta e cinco reais.
+
+Stemming: possui o objetivo de remover o sufixo que flexiona as palavras
+          Consiste no processo de levar uma palavra ao seu 'tronco' (stem)
+          Exemplos: interpretadores, interpretar, interpretação ----> interpret
+                    pensar, pensando, pensamento ----> pens.
+
+Lematização possui o objetivo de levar uma palavra ao seu infinitivo
+          Exemplos: patos, patas, pata ----> pato
+                    curso, cursinho, cursos ----> curso.
+
+Remoção de Stopwords consiste em retirar palavras que pouco contribuem para a análise e classificação do texto
+          Exemplos: 'a', 'ao', 'aquela', de', 'com'.
+
+POS-Tagging possui o objetivo de atribuir uma classe gramatical (como substantivos, verbos, pronomes e etc)
+          para cada palavra do corpus, é um processo de análise morfológica.
+
+Parsing tem o objetivo de fazer uma análise de acordo com as regras gramaticais
+          Um parser de dependência analisa a estrutura gramatical e procura estabalecer relacionamentos
+          entre palavras 'raiz' e palavras 'dependentes'.
+
+Bag of Words é uma maneira de representar características textuais em formato vetorial e
+          baseia-se na frequência das palavras
+          Exemplo: Considere os seguintes documentos:
+            d1 = 'Construção de Interpretadores'
+            d2 = 'Construção de Software Gráfico'
+            d3 = 'Programação Orientada a Objetos'
+
+            Após aplicar normalização e remoção de stopwords (como 'de' e 'a'), obtemos o seguinte vocabulário:
+                vocab = {'construcao', 'interpretadores', 'software', 'grafico', 'programacao', 'orientada', 'objetos'}
+
+            Para cada documento, criamos um vetor de tamanho 7 = len(vocab) e que indique a frequência dos termos:
+                d1 ----> [1, 1, 0, 0, 0, 0, 0]
+                d2 ----> [1, 0, 1, 1, 0, 0, 0]
+                d3 ----> [0, 0, 0, 0, 1, 1, 1].

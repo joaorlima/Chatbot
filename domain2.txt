@@ -1,0 +1,8 @@
+Python é uma linguagem de programação de alto nível.
+
+Guido van Rossum (1991) é o criador do Python.
+
+Python suporta vários paradigmas, como programação procedimental, orientada a objetos, funcional, etc.
+
+Python tem uma biblioteca padrão imensa, que contém classes, métodos e funções para realizar essencialmente qualquer tarefa, desde acesso a bancos de dados a interfaces gráficas com o usuário.
+
