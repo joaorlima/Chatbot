@@ -1,0 +1,66 @@
+Nossos cursos são: Python, Java, Haskell e Web.
+
+Nossos cursos ofertados são Python, Java, Haskell e Web.
+
+No curso de Python você vai aprender a construir um chatbot.
+
+No curso de Java você vai aprender Orientação a Objetos.
+
+No curso de Haskell você vai aprender Programação Funcional.
+
+No curso de Web você vai aprender a criar um site completo.
+
+Se você gosta de CSS, vou recomendar nosso curso de Web
+        Nele você vai ver
+          - HTML5
+          - CSS3
+          - JavaScript
+          - PHP.
+
+Se você quer criar um site, nosso curso de Web é perfeito para você
+        Nele vamos aprender
+          - conceitos de HTML5
+          - fundamentos CSS3
+          - o básico de JavaScript
+          - um pouco de PHP.
+
+Se você curte programação funcional, nosso curso de Haskell é perfeito para você
+        - Fundamentos do Haskell
+        - Testes unitários com Haskell
+        - Modelagem matemática com Haskell.
+
+Se você curte lambda cálculo, saca só nosso curso de Haskell
+        - Fundamentos do Haskell
+        - Testes unitários com Haskell
+        - Modelagem matemática com Haskell.
+
+Se você gosta de classes e objetos, Java é perfeito para você
+        Nosso curso de Java cobre os seguintes tópicos
+        - Introdução (Classes e Objetos)
+        - Orientação a Objetos
+        - Conexão com Banco de Dados.
+
+Se você gosta de dados, nosso curso de Java é uma boa
+        Veremos os seguintes assuntos
+        - Introdução
+        - Orientação a Objetos
+        - Conexão com Banco de Dados (JDB).
+
+Se você quer uma linguagem inicial, sugiro Python
+        A sintaxe é bem tranquila e nosso curso é bem completo
+        - Introdução
+        - Comandos Básicos
+        - Objetos
+        - Exceções
+        - Processamento de Linguagem Natural
+        - Chatbot.
+
+Se você tá começando, Python é uma boa
+        A sintaxe é bem tranquila e nosso curso é bem completo
+        - Introdução
+        - Comandos Básicos
+        - Objetos
+        - Exceções
+        - Processamento de Linguagem Natural
+        - Chatbot.
+
